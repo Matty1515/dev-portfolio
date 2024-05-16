@@ -1,3 +1,5 @@
 <template>
-    <h1>Contact me</h1>
+    <section id="ContactSection">
+        <h1>Contact me</h1>
+    </section>
 </template>

@@ -1,3 +1,5 @@
 <template>
-    <h1>Tech stack</h1>
+    <section id="TechStackSection">
+        <h1>Tech stack</h1>
+    </section>
 </template>

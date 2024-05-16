@@ -1,3 +1,5 @@
 <template>
-    <h1>About me</h1>
+    <section id="AboutSection">
+        <h1>About me</h1>
+    </section>
 </template>

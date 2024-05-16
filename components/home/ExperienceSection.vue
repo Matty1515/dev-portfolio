@@ -1,3 +1,5 @@
 <template>
-    <h1>Experience</h1>
+    <section id="ExperienceSection">
+        <h1>Experience</h1>
+    </section>
 </template>
